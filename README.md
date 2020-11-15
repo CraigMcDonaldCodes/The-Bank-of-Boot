@@ -1,2 +1,3 @@
-# Bank-of-Jakarta
-Bank demo web application built on Jakarta and Java SE
+# The-Bank-of-Book
+
+Bank demo web application built on Spring Boot.
